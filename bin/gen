@@ -1,0 +1,10 @@
+#!/bin/bash
+# set -ex
+
+cd $PROJECT_ROOT
+
+source env.sh
+
+rm -rf typings
+# pyright --createstub scp
+# pyright --createstub jsonrpclib

@@ -1,0 +1,6 @@
+{
+  "include": ["./mc"],
+  "typeCheckingMode": "strict",
+  "stubPath": "./typings",
+  "reportUnknownMemberType": false
+}
